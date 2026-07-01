@@ -1,0 +1,7 @@
+numpy
+tqdm
+scikit-learn
+pillow
+torch
+torchvision
+streamlit>=1.28.0
